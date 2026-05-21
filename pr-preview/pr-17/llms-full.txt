@@ -203,11 +203,11 @@ Stablecoins deserve better than today's privacy polylemma. We're here to solve i
 
 export const base = import.meta.env.BASE_URL.replace(/\/?$/, '/')
 
-## Building Private Stablecoin Payroll Together: The Mirage Design Partnership
+## Introducing the Mirage Design Partnership
 
 ::authors
 
-<img src={`${base}assets/design-partnership.webp`} alt="The Mirage Design Partnership" className="article-cover-image" />
+<img src={`${base}assets/design-partnership.webp`} alt="Introducing the Mirage Design Partnership" className="article-cover-image" />
 
 Picture an employer running monthly payroll in native USDC. Every employee's wallet address, exact salary, and total payroll volume are permanently public. Colleagues can compare each other's earnings. Competitors can observe vendor relationships and treasury positions. High-earning employees can become identifiable targets for crime. This is the current default behavior of every public blockchain, and it is the single biggest reason stablecoin treasuries and payments have not gone mainstream despite the underlying rails being ready.
 
