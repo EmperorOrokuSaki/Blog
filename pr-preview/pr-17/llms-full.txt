@@ -203,15 +203,15 @@ Stablecoins deserve better than today's privacy polylemma. We're here to solve i
 
 export const base = import.meta.env.BASE_URL.replace(/\/?$/, '/')
 
-## Introducing the Mirage Design Partnership
+## Building Private Stablecoin Payroll Together: The Mirage Design Partnership
 
 ::authors
 
-<img src={`${base}assets/design-partnership.webp`} alt="Introducing the Mirage Design Partnership" className="article-cover-image" />
+<img src={`${base}assets/design-partnership.webp`} alt="The Mirage Design Partnership" className="article-cover-image" />
 
 Picture an employer running monthly payroll in native USDC. Every employee's wallet address, exact salary, and total payroll volume are permanently public. Colleagues can compare each other's earnings. Competitors can observe vendor relationships and treasury positions. High-earning employees can become identifiable targets for crime. This is the current default behavior of every public blockchain, and it is the single biggest reason stablecoin treasuries and payments have not gone mainstream despite the underlying rails being ready.
 
-Today we're opening applications for the Mirage Design Partnership: a nine-week engagement to build and co-publish a working end-to-end reference journey and the integrations behind it for private stablecoin payroll. Applications close May 31, 2026. The full Design Partnership Brief covers the architecture, partner roles, timeline, and terms in detail.
+Today we're opening applications for the Mirage Design Partnership: a nine-week engagement to build and co-publish a working end-to-end reference journey and the integrations behind it for private stablecoin payroll. Applications close May 31, 2026. The full [Design Partnership Brief](https://drive.google.com/file/d/15T0pdB6HjRcJI5IOp27kDTRsUuJ41QoA/view?usp=drive_link) covers the architecture, partner roles, timeline, and terms in detail.
 
 ### Why a Design Partnership, and why now
 
@@ -237,7 +237,7 @@ The timeline is nine weeks across five phases: application by May 31, letter of 
 
 The architecture for private stablecoin payroll is being defined over the next few quarters, and the teams that contribute to the definition will be named in the resulting reference. A shared legal opinion across the full stack is significantly cheaper than each partner producing one alone. And each partner exits with a real, working integration into a complete payroll flow.
 
-If this is the kind of work you're already doing, we'd like to do it with you. The Design Partnership Brief has the full details; the application itself is a short reply to [partners@mirageprivacy.com](mailto\:partners@mirageprivacy.com) with your role interest, a technical reference, and a contact for the integration window.
+If this is the kind of work you're already doing, we'd like to do it with you. The [Design Partnership Brief](https://drive.google.com/file/d/15T0pdB6HjRcJI5IOp27kDTRsUuJ41QoA/view?usp=drive_link) has the full details; the application itself is a short reply to [partners@mirageprivacy.com](mailto\:partners@mirageprivacy.com) with your role interest, a technical reference, and a contact for the integration window.
 
 Apply by May 31, 2026.
 
